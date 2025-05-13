@@ -12,7 +12,7 @@ import java.util.Map;
 /**
  * 初始化支付宝小程序 单例
  *
- * @author 丁新东
+ * @author lxj
  * @date 2022-12-07
  */
 public class AlipayClientSingleton {
